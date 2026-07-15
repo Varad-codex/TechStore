@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone 16 Pro",
+        "price": 1299,
+        "rating":4.9,
+        "image": "images/products/iphone.jpg",
+        "category": "Phone"
+    },
+    {
+        "id": 2,
+        "name": "MacBook Pro M4",
+        "price": 2199,
+        "rating":4.9,
+        "image": "images/products/macbook.jpg",
+        "category": "Laptop"
+    },
+    {
+        "id": 3,
+        "name": "Sony WH-1000XM5",
+        "price": 399,
+        "rating":4.8,
+        "image": "images/products/headphone.jpg",
+        "category": "Headphone"
+    },
+    {
+        "id": 4,
+        "name": "Apple Watch Series 10",
+        "price": 499,
+        "rating":4.7,
+        "image": "images/products/watch.jpg",
+        "category": "Watch"
+    },
+    {
+        "id": 5,
+        "name": "Samsung Galaxy S25",
+        "price": 1099,
+        "rating":4.5,
+        "image": "images/products/samsung.jpg",
+        "category": "Phone"
+    },
+    {
+        "id": 6,
+        "name": "Dell XPS 15",
+        "price": 1799,
+        "rating":4.4,
+        "image": "images/products/dell.jpg",
+        "category": "Laptop"
+    }
+]
